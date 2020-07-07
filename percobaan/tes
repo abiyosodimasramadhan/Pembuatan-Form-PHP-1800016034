@@ -1,0 +1,10 @@
+<html>
+<body>
+<form action="tes.com/teks.php" method="post">
+<input type="text" name="teks1"
+		value="PHP"/><BR>
+<input type="text" name="teks2"/><BR>
+<input type="submit" value = "Kirim" />
+</form>
+</body>
+</html>
